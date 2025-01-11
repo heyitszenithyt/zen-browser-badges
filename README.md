@@ -8,7 +8,7 @@ The solution for READMES on Zen Browser-related projects.
 
 ## How to use
 
-You can copy the perma-link or download and put it on your README, just make sure to change how big do you want the images to appear using the <img> tags.
+You can copy the perma-link or download and put it on your README, just make sure to change how big do you want the images to appear using the `<img>` tags.
 
 ## Showcase
 
