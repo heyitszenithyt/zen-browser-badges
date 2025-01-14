@@ -12,7 +12,7 @@ You can copy the perma-link or download and put it on your README, just make sur
 
 ## Special Thanks
 
-@heistiamwrestlemania for helping me align everything correctly
+@heistiamwrestlemania on Discord for helping me align everything correctly.
 
 ## Showcase
 
